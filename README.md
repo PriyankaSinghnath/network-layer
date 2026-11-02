@@ -1,2 +1,2 @@
 # network-layer
-A clean Swift networking layer demonstrating MVVM, dependency injection, typed API endpoints, and async/await for authentication and product APIs.
+A reusable Swift networking layer for iOS developers, featuring MVVM, dependency injection, typed API endpoints, and async/await. Use it as a starting point for networking in your own apps.
